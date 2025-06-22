@@ -1,3 +1,9 @@
+# Ignore API key file
+api-keys.js
+
+
+
+
 # Logs
 logs
 *.log
